@@ -6,8 +6,8 @@ import json
 # from utils.get_aws_secrets import get_secret
 
 
-USER = "pxkazi"
-PASSWORD = "Ahmedrahat14"
+USER = "your user id"
+PASSWORD = "your snowflake password"
 
 
 
